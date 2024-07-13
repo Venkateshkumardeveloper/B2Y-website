@@ -231,7 +231,6 @@ import { GoArrowRight } from "react-icons/go";
 
 
 
-
 const Portfolio = () => {
   const handleButtonClick = () => {
     // Scroll down by 100vh
