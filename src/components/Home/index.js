@@ -40,6 +40,9 @@ const Home = () => {
           </div>
         </div>
       </Front>
+      <div className="video">
+      <iframe width="1050" className="youtube" src="https://www.youtube.com/embed/OSG3sdSiOi8?rel=0&amp;&amp;autoplay=1&amp;mute=1&amp;loop=1&amp;vq=hd1080" frameborder="0" title="YouTube video player"></iframe>
+      </div>
 
       {/* explore section */}
       <ExplorePage />
